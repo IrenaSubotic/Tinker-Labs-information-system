@@ -1,1 +1,1 @@
-[Pogledajte dokumentaciju projekta](./Tinker Labs.pdf)
+[Pogledajte dokumentaciju projekta](./Tinker%20Labs.pdf)
